@@ -1,6 +1,6 @@
 # terraconverter-geodata
 
-Prebuilt data releases consumed by the [TerraConverter](<zlatkobalas/terraconverter-geodata>)
+Prebuilt data releases consumed by the [TerraConverter](<link na glavni TerraConverter repo>)
 Android app. This repo holds **no source code** — just periodic GitHub
 Releases with a binary data file, downloaded on-device the first time the
 app's address search/reverse-geocoding feature is used.
